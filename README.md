@@ -1,5 +1,7 @@
 # Mini-Projeto: Meus Interesses
 
+![Logo](assets/logotipo.png)
+
 Este mini-projeto consiste em uma aplicação simples para gerenciar uma lista de interesses ou hobbies utilizando HTML, CSS e JavaScript. A aplicação permite adicionar novos interesses, marcar como concluídos, editar e deletar interesses, além de exibir uma notícia do dia.
 
 ## Funcionalidades
@@ -18,6 +20,11 @@ O projeto está estruturado da seguinte maneira:
 - **index.html**: Contém a estrutura HTML da página, incluindo os elementos principais como formulário de adição de interesse, lista de interesses e seção de notícias.
 - **index.css**: Arquivo CSS para estilizar a página, incluindo responsividade e layout dos elementos.
 - **index.js**: Arquivo JavaScript que implementa a lógica da aplicação, incluindo manipulação do DOM, eventos e interação com o localStorage para persistência dos dados.
+
+## Acessar diretamente
+
+[Meus Interesses](https://a-natureza.github.io/Mini-Projeto-Meus-Interesses/)
+`https://a-natureza.github.io/Mini-Projeto-Meus-Interesses/`
 
 ## Como Usar
 
@@ -42,7 +49,7 @@ O projeto está estruturado da seguinte maneira:
 - HTML
 - CSS
 - JavaScript
-- API do IBGE para busca de notícias
+- API do IBGE para busca de notícias `http://servicodados.ibge.gov.br/api/v3/noticias/?tipo=release`
 
 ## Autora
 
